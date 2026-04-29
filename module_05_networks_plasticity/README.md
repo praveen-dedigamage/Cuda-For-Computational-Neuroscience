@@ -25,15 +25,15 @@ where $\Delta t = t_{post} - t_{pre}$.
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [01_synaptic_models.ipynb](01_synaptic_models.ipynb) | Conductance-based synapses on GPU |
-| [02_sparse_connectivity.ipynb](02_sparse_connectivity.ipynb) | CSR format, sparse matrix-vector multiply |
-| [03_stdp_learning.ipynb](03_stdp_learning.ipynb) | STDP rule, weight dynamics, learning |
+| Notebook | Topic | |
+|----------|-------|-|
+| [01_synaptic_models.ipynb](01_synaptic_models.ipynb) | Conductance-based synapses on GPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/01_synaptic_models.ipynb) |
+| [02_sparse_connectivity.ipynb](02_sparse_connectivity.ipynb) | CSR format, sparse matrix-vector multiply | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/02_sparse_connectivity.ipynb) |
+| [03_stdp_learning.ipynb](03_stdp_learning.ipynb) | STDP rule, weight dynamics, learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/03_stdp_learning.ipynb) |
 
 ## Exercises
 
-| File | Description |
-|------|-------------|
-| [exercises/ex05_stub.ipynb](exercises/ex05_stub.ipynb) | Implement BCM (Bienenstock-Cooper-Munro) plasticity |
-| [exercises/ex05_solution.ipynb](exercises/ex05_solution.ipynb) | Complete solution |
+| File | Description | |
+|------|-------------|-|
+| [exercises/ex05_stub.ipynb](exercises/ex05_stub.ipynb) | Implement BCM (Bienenstock-Cooper-Munro) plasticity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/exercises/ex05_stub.ipynb) |
+| [exercises/ex05_solution.ipynb](exercises/ex05_solution.ipynb) | Complete solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/exercises/ex05_solution.ipynb) |

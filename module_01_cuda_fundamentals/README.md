@@ -17,18 +17,18 @@ By completing this module you will be able to:
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [01_gpu_architecture.ipynb](01_gpu_architecture.ipynb) | CPU vs GPU, SMs, warps, memory hierarchy |
-| [02_cuda_programming_model.ipynb](02_cuda_programming_model.ipynb) | Kernels, thread hierarchy, indexing |
-| [03_first_cuda_programs.ipynb](03_first_cuda_programs.ipynb) | Hello CUDA, vector addition, timing |
+| Notebook | Topic | |
+|----------|-------|-|
+| [01_gpu_architecture.ipynb](01_gpu_architecture.ipynb) | CPU vs GPU, SMs, warps, memory hierarchy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/01_gpu_architecture.ipynb) |
+| [02_cuda_programming_model.ipynb](02_cuda_programming_model.ipynb) | Kernels, thread hierarchy, indexing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/02_cuda_programming_model.ipynb) |
+| [03_first_cuda_programs.ipynb](03_first_cuda_programs.ipynb) | Hello CUDA, vector addition, timing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/03_first_cuda_programs.ipynb) |
 
 ## Exercises
 
-| File | Description |
-|------|-------------|
-| [exercises/ex01_stub.ipynb](exercises/ex01_stub.ipynb) | Fill-in-the-blank: write your first kernel |
-| [exercises/ex01_solution.ipynb](exercises/ex01_solution.ipynb) | Complete solution |
+| File | Description | |
+|------|-------------|-|
+| [exercises/ex01_stub.ipynb](exercises/ex01_stub.ipynb) | Fill-in-the-blank: write your first kernel | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/exercises/ex01_stub.ipynb) |
+| [exercises/ex01_solution.ipynb](exercises/ex01_solution.ipynb) | Complete solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/exercises/ex01_solution.ipynb) |
 
 ## Standalone Source
 

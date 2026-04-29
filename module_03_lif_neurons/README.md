@@ -27,18 +27,18 @@ Parameters:
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [01_lif_theory.ipynb](01_lif_theory.ipynb) | LIF model derivation and analysis |
-| [02_parallel_lif_gpu.ipynb](02_parallel_lif_gpu.ipynb) | Full GPU implementation |
-| [03_spike_analysis.ipynb](03_spike_analysis.ipynb) | Raster plots, ISI, firing rate analysis |
+| Notebook | Topic | |
+|----------|-------|-|
+| [01_lif_theory.ipynb](01_lif_theory.ipynb) | LIF model derivation and analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/01_lif_theory.ipynb) |
+| [02_parallel_lif_gpu.ipynb](02_parallel_lif_gpu.ipynb) | Full GPU implementation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/02_parallel_lif_gpu.ipynb) |
+| [03_spike_analysis.ipynb](03_spike_analysis.ipynb) | Raster plots, ISI, firing rate analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/03_spike_analysis.ipynb) |
 
 ## Exercises
 
-| File | Description |
-|------|-------------|
-| [exercises/ex03_stub.ipynb](exercises/ex03_stub.ipynb) | Add refractory period and heterogeneous inputs |
-| [exercises/ex03_solution.ipynb](exercises/ex03_solution.ipynb) | Complete solution |
+| File | Description | |
+|------|-------------|-|
+| [exercises/ex03_stub.ipynb](exercises/ex03_stub.ipynb) | Add refractory period and heterogeneous inputs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/exercises/ex03_stub.ipynb) |
+| [exercises/ex03_solution.ipynb](exercises/ex03_solution.ipynb) | Complete solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/exercises/ex03_solution.ipynb) |
 
 ## Standalone Source
 
