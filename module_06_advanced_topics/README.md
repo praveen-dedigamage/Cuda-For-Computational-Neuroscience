@@ -24,24 +24,18 @@ Domain decomposition for networks too large for a single GPU. Communication via 
 
 ## Notebooks
 
-<table>
-<thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
-<tbody>
-<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/01_cublas_neural_models.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="01_cublas_neural_models.ipynb">01_cublas_neural_models.ipynb</a></td><td>cuBLAS for rate networks and covariance</td></tr>
-<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/02_cufft_signal_analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="02_cufft_signal_analysis.ipynb">02_cufft_signal_analysis.ipynb</a></td><td>cuFFT for LFP spectral analysis</td></tr>
-<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/03_multi_gpu_scaling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="03_multi_gpu_scaling.ipynb">03_multi_gpu_scaling.ipynb</a></td><td>Multi-GPU domain decomposition</td></tr>
-</tbody>
-</table>
+| Notebook | | Topic |
+|----------|--|-------|
+| [01_cublas_neural_models.ipynb](01_cublas_neural_models.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/01_cublas_neural_models.ipynb) | cuBLAS for rate networks and covariance |
+| [02_cufft_signal_analysis.ipynb](02_cufft_signal_analysis.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/02_cufft_signal_analysis.ipynb) | cuFFT for LFP spectral analysis |
+| [03_multi_gpu_scaling.ipynb](03_multi_gpu_scaling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/03_multi_gpu_scaling.ipynb) | Multi-GPU domain decomposition |
 
 ## Exercises
 
-<table>
-<thead><tr><th>Notebook</th><th>Description</th></tr></thead>
-<tbody>
-<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="exercises/ex06_stub.ipynb">exercises/ex06_stub.ipynb</a></td><td>Implement GPU-accelerated spike-train cross-correlation</td></tr>
-<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="exercises/ex06_solution.ipynb">exercises/ex06_solution.ipynb</a></td><td>Complete solution</td></tr>
-</tbody>
-</table>
+| Notebook | | Description |
+|----------|--|-------------|
+| [exercises/ex06_stub.ipynb](exercises/ex06_stub.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_stub.ipynb) | Implement GPU-accelerated spike-train cross-correlation |
+| [exercises/ex06_solution.ipynb](exercises/ex06_solution.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_solution.ipynb) | Complete solution |
 
 ## Prerequisites
 
