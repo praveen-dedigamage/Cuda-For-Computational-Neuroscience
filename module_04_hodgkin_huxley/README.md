@@ -23,18 +23,18 @@ where $\alpha_m$ and $\beta_m$ are voltage-dependent rate functions.
 
 ## Notebooks
 
-| Notebook | Topic | |
-|----------|-------|-|
-| [01_hh_theory.ipynb](01_hh_theory.ipynb) | HH model derivation, gating variables, action potential | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/01_hh_theory.ipynb) |
-| [02_hh_gpu_solver.ipynb](02_hh_gpu_solver.ipynb) | Euler and RK4 solvers on GPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/02_hh_gpu_solver.ipynb) |
-| [03_parameter_sweep.ipynb](03_parameter_sweep.ipynb) | Parallel parameter exploration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/03_parameter_sweep.ipynb) |
+| Notebook | Topic |
+|----------|-------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/01_hh_theory.ipynb) [01_hh_theory.ipynb](01_hh_theory.ipynb) | HH model derivation, gating variables, action potential |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/02_hh_gpu_solver.ipynb) [02_hh_gpu_solver.ipynb](02_hh_gpu_solver.ipynb) | Euler and RK4 solvers on GPU |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/03_parameter_sweep.ipynb) [03_parameter_sweep.ipynb](03_parameter_sweep.ipynb) | Parallel parameter exploration |
 
 ## Exercises
 
-| File | Description | |
-|------|-------------|-|
-| [exercises/ex04_stub.ipynb](exercises/ex04_stub.ipynb) | Add a potassium A-current (I_A) to the model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_stub.ipynb) |
-| [exercises/ex04_solution.ipynb](exercises/ex04_solution.ipynb) | Complete solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_solution.ipynb) |
+| Notebook | Description |
+|----------|-------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_stub.ipynb) [exercises/ex04_stub.ipynb](exercises/ex04_stub.ipynb) | Add a potassium A-current (I_A) to the model |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_solution.ipynb) [exercises/ex04_solution.ipynb](exercises/ex04_solution.ipynb) | Complete solution |
 
 ## Estimated Time
 

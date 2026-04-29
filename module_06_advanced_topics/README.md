@@ -24,18 +24,18 @@ Domain decomposition for networks too large for a single GPU. Communication via 
 
 ## Notebooks
 
-| Notebook | Topic | |
-|----------|-------|-|
-| [01_cublas_neural_models.ipynb](01_cublas_neural_models.ipynb) | cuBLAS for rate networks and covariance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/01_cublas_neural_models.ipynb) |
-| [02_cufft_signal_analysis.ipynb](02_cufft_signal_analysis.ipynb) | cuFFT for LFP spectral analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/02_cufft_signal_analysis.ipynb) |
-| [03_multi_gpu_scaling.ipynb](03_multi_gpu_scaling.ipynb) | Multi-GPU domain decomposition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/03_multi_gpu_scaling.ipynb) |
+| Notebook | Topic |
+|----------|-------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/01_cublas_neural_models.ipynb) [01_cublas_neural_models.ipynb](01_cublas_neural_models.ipynb) | cuBLAS for rate networks and covariance |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/02_cufft_signal_analysis.ipynb) [02_cufft_signal_analysis.ipynb](02_cufft_signal_analysis.ipynb) | cuFFT for LFP spectral analysis |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/03_multi_gpu_scaling.ipynb) [03_multi_gpu_scaling.ipynb](03_multi_gpu_scaling.ipynb) | Multi-GPU domain decomposition |
 
 ## Exercises
 
-| File | Description | |
-|------|-------------|-|
-| [exercises/ex06_stub.ipynb](exercises/ex06_stub.ipynb) | Implement GPU-accelerated spike-train cross-correlation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_stub.ipynb) |
-| [exercises/ex06_solution.ipynb](exercises/ex06_solution.ipynb) | Complete solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_solution.ipynb) |
+| Notebook | Description |
+|----------|-------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_stub.ipynb) [exercises/ex06_stub.ipynb](exercises/ex06_stub.ipynb) | Implement GPU-accelerated spike-train cross-correlation |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_solution.ipynb) [exercises/ex06_solution.ipynb](exercises/ex06_solution.ipynb) | Complete solution |
 
 ## Prerequisites
 

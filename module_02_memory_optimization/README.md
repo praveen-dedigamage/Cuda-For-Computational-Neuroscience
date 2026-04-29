@@ -15,18 +15,18 @@ Performance in GPU programs is almost always limited by **memory bandwidth**, no
 
 ## Notebooks
 
-| Notebook | Topic | |
-|----------|-------|-|
-| [01_memory_hierarchy.ipynb](01_memory_hierarchy.ipynb) | Memory types, latency, bandwidth benchmarks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/01_memory_hierarchy.ipynb) |
-| [02_shared_memory_tiling.ipynb](02_shared_memory_tiling.ipynb) | Tiled matrix multiply, bank conflicts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/02_shared_memory_tiling.ipynb) |
-| [03_optimization_workflow.ipynb](03_optimization_workflow.ipynb) | Profiling, roofline model, constant memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/03_optimization_workflow.ipynb) |
+| Notebook | Topic |
+|----------|-------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/01_memory_hierarchy.ipynb) [01_memory_hierarchy.ipynb](01_memory_hierarchy.ipynb) | Memory types, latency, bandwidth benchmarks |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/02_shared_memory_tiling.ipynb) [02_shared_memory_tiling.ipynb](02_shared_memory_tiling.ipynb) | Tiled matrix multiply, bank conflicts |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/03_optimization_workflow.ipynb) [03_optimization_workflow.ipynb](03_optimization_workflow.ipynb) | Profiling, roofline model, constant memory |
 
 ## Exercises
 
-| File | Description | |
-|------|-------------|-|
-| [exercises/ex02_stub.ipynb](exercises/ex02_stub.ipynb) | Optimize a naive matrix multiply using shared memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_stub.ipynb) |
-| [exercises/ex02_solution.ipynb](exercises/ex02_solution.ipynb) | Complete solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_solution.ipynb) |
+| Notebook | Description |
+|----------|-------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_stub.ipynb) [exercises/ex02_stub.ipynb](exercises/ex02_stub.ipynb) | Optimize a naive matrix multiply using shared memory |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_solution.ipynb) [exercises/ex02_solution.ipynb](exercises/ex02_solution.ipynb) | Complete solution |
 
 ## Standalone Source
 
