@@ -25,15 +25,21 @@ where $\Delta t = t_{post} - t_{pre}$.
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/01_synaptic_models.ipynb) [01_synaptic_models.ipynb](01_synaptic_models.ipynb) | Conductance-based synapses on GPU |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/02_sparse_connectivity.ipynb) [02_sparse_connectivity.ipynb](02_sparse_connectivity.ipynb) | CSR format, sparse matrix-vector multiply |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/03_stdp_learning.ipynb) [03_stdp_learning.ipynb](03_stdp_learning.ipynb) | STDP rule, weight dynamics, learning |
+<table>
+<thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/01_synaptic_models.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="01_synaptic_models.ipynb">01_synaptic_models.ipynb</a></td><td valign="middle">Conductance-based synapses on GPU</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/02_sparse_connectivity.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="02_sparse_connectivity.ipynb">02_sparse_connectivity.ipynb</a></td><td valign="middle">CSR format, sparse matrix-vector multiply</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/03_stdp_learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="03_stdp_learning.ipynb">03_stdp_learning.ipynb</a></td><td valign="middle">STDP rule, weight dynamics, learning</td></tr>
+</tbody>
+</table>
 
 ## Exercises
 
-| Notebook | Description |
-|----------|-------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/exercises/ex05_stub.ipynb) [exercises/ex05_stub.ipynb](exercises/ex05_stub.ipynb) | Implement BCM (Bienenstock-Cooper-Munro) plasticity |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/exercises/ex05_solution.ipynb) [exercises/ex05_solution.ipynb](exercises/ex05_solution.ipynb) | Complete solution |
+<table>
+<thead><tr><th>Notebook</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/exercises/ex05_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex05_stub.ipynb">exercises/ex05_stub.ipynb</a></td><td valign="middle">Implement BCM (Bienenstock-Cooper-Munro) plasticity</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_05_networks_plasticity/exercises/ex05_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex05_solution.ipynb">exercises/ex05_solution.ipynb</a></td><td valign="middle">Complete solution</td></tr>
+</tbody>
+</table>

@@ -24,18 +24,24 @@ Domain decomposition for networks too large for a single GPU. Communication via 
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/01_cublas_neural_models.ipynb) [01_cublas_neural_models.ipynb](01_cublas_neural_models.ipynb) | cuBLAS for rate networks and covariance |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/02_cufft_signal_analysis.ipynb) [02_cufft_signal_analysis.ipynb](02_cufft_signal_analysis.ipynb) | cuFFT for LFP spectral analysis |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/03_multi_gpu_scaling.ipynb) [03_multi_gpu_scaling.ipynb](03_multi_gpu_scaling.ipynb) | Multi-GPU domain decomposition |
+<table>
+<thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/01_cublas_neural_models.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="01_cublas_neural_models.ipynb">01_cublas_neural_models.ipynb</a></td><td valign="middle">cuBLAS for rate networks and covariance</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/02_cufft_signal_analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="02_cufft_signal_analysis.ipynb">02_cufft_signal_analysis.ipynb</a></td><td valign="middle">cuFFT for LFP spectral analysis</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/03_multi_gpu_scaling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="03_multi_gpu_scaling.ipynb">03_multi_gpu_scaling.ipynb</a></td><td valign="middle">Multi-GPU domain decomposition</td></tr>
+</tbody>
+</table>
 
 ## Exercises
 
-| Notebook | Description |
-|----------|-------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_stub.ipynb) [exercises/ex06_stub.ipynb](exercises/ex06_stub.ipynb) | Implement GPU-accelerated spike-train cross-correlation |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_solution.ipynb) [exercises/ex06_solution.ipynb](exercises/ex06_solution.ipynb) | Complete solution |
+<table>
+<thead><tr><th>Notebook</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex06_stub.ipynb">exercises/ex06_stub.ipynb</a></td><td valign="middle">Implement GPU-accelerated spike-train cross-correlation</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_06_advanced_topics/exercises/ex06_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex06_solution.ipynb">exercises/ex06_solution.ipynb</a></td><td valign="middle">Complete solution</td></tr>
+</tbody>
+</table>
 
 ## Prerequisites
 

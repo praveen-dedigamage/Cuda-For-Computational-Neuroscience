@@ -15,18 +15,24 @@ Performance in GPU programs is almost always limited by **memory bandwidth**, no
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/01_memory_hierarchy.ipynb) [01_memory_hierarchy.ipynb](01_memory_hierarchy.ipynb) | Memory types, latency, bandwidth benchmarks |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/02_shared_memory_tiling.ipynb) [02_shared_memory_tiling.ipynb](02_shared_memory_tiling.ipynb) | Tiled matrix multiply, bank conflicts |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/03_optimization_workflow.ipynb) [03_optimization_workflow.ipynb](03_optimization_workflow.ipynb) | Profiling, roofline model, constant memory |
+<table>
+<thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/01_memory_hierarchy.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="01_memory_hierarchy.ipynb">01_memory_hierarchy.ipynb</a></td><td valign="middle">Memory types, latency, bandwidth benchmarks</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/02_shared_memory_tiling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="02_shared_memory_tiling.ipynb">02_shared_memory_tiling.ipynb</a></td><td valign="middle">Tiled matrix multiply, bank conflicts</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/03_optimization_workflow.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="03_optimization_workflow.ipynb">03_optimization_workflow.ipynb</a></td><td valign="middle">Profiling, roofline model, constant memory</td></tr>
+</tbody>
+</table>
 
 ## Exercises
 
-| Notebook | Description |
-|----------|-------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_stub.ipynb) [exercises/ex02_stub.ipynb](exercises/ex02_stub.ipynb) | Optimize a naive matrix multiply using shared memory |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_solution.ipynb) [exercises/ex02_solution.ipynb](exercises/ex02_solution.ipynb) | Complete solution |
+<table>
+<thead><tr><th>Notebook</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex02_stub.ipynb">exercises/ex02_stub.ipynb</a></td><td valign="middle">Optimize a naive matrix multiply using shared memory</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_02_memory_optimization/exercises/ex02_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex02_solution.ipynb">exercises/ex02_solution.ipynb</a></td><td valign="middle">Complete solution</td></tr>
+</tbody>
+</table>
 
 ## Standalone Source
 

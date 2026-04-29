@@ -23,18 +23,24 @@ where $\alpha_m$ and $\beta_m$ are voltage-dependent rate functions.
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/01_hh_theory.ipynb) [01_hh_theory.ipynb](01_hh_theory.ipynb) | HH model derivation, gating variables, action potential |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/02_hh_gpu_solver.ipynb) [02_hh_gpu_solver.ipynb](02_hh_gpu_solver.ipynb) | Euler and RK4 solvers on GPU |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/03_parameter_sweep.ipynb) [03_parameter_sweep.ipynb](03_parameter_sweep.ipynb) | Parallel parameter exploration |
+<table>
+<thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/01_hh_theory.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="01_hh_theory.ipynb">01_hh_theory.ipynb</a></td><td valign="middle">HH model derivation, gating variables, action potential</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/02_hh_gpu_solver.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="02_hh_gpu_solver.ipynb">02_hh_gpu_solver.ipynb</a></td><td valign="middle">Euler and RK4 solvers on GPU</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/03_parameter_sweep.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="03_parameter_sweep.ipynb">03_parameter_sweep.ipynb</a></td><td valign="middle">Parallel parameter exploration</td></tr>
+</tbody>
+</table>
 
 ## Exercises
 
-| Notebook | Description |
-|----------|-------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_stub.ipynb) [exercises/ex04_stub.ipynb](exercises/ex04_stub.ipynb) | Add a potassium A-current (I_A) to the model |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_solution.ipynb) [exercises/ex04_solution.ipynb](exercises/ex04_solution.ipynb) | Complete solution |
+<table>
+<thead><tr><th>Notebook</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex04_stub.ipynb">exercises/ex04_stub.ipynb</a></td><td valign="middle">Add a potassium A-current (I_A) to the model</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_04_hodgkin_huxley/exercises/ex04_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex04_solution.ipynb">exercises/ex04_solution.ipynb</a></td><td valign="middle">Complete solution</td></tr>
+</tbody>
+</table>
 
 ## Estimated Time
 

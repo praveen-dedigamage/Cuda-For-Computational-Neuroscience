@@ -17,18 +17,24 @@ By completing this module you will be able to:
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/01_gpu_architecture.ipynb) [01_gpu_architecture.ipynb](01_gpu_architecture.ipynb) | CPU vs GPU, SMs, warps, memory hierarchy |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/02_cuda_programming_model.ipynb) [02_cuda_programming_model.ipynb](02_cuda_programming_model.ipynb) | Kernels, thread hierarchy, indexing |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/03_first_cuda_programs.ipynb) [03_first_cuda_programs.ipynb](03_first_cuda_programs.ipynb) | Hello CUDA, vector addition, timing |
+<table>
+<thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/01_gpu_architecture.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="01_gpu_architecture.ipynb">01_gpu_architecture.ipynb</a></td><td valign="middle">CPU vs GPU, SMs, warps, memory hierarchy</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/02_cuda_programming_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="02_cuda_programming_model.ipynb">02_cuda_programming_model.ipynb</a></td><td valign="middle">Kernels, thread hierarchy, indexing</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/03_first_cuda_programs.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="03_first_cuda_programs.ipynb">03_first_cuda_programs.ipynb</a></td><td valign="middle">Hello CUDA, vector addition, timing</td></tr>
+</tbody>
+</table>
 
 ## Exercises
 
-| Notebook | Description |
-|----------|-------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/exercises/ex01_stub.ipynb) [exercises/ex01_stub.ipynb](exercises/ex01_stub.ipynb) | Fill-in-the-blank: write your first kernel |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/exercises/ex01_solution.ipynb) [exercises/ex01_solution.ipynb](exercises/ex01_solution.ipynb) | Complete solution |
+<table>
+<thead><tr><th>Notebook</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/exercises/ex01_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex01_stub.ipynb">exercises/ex01_stub.ipynb</a></td><td valign="middle">Fill-in-the-blank: write your first kernel</td></tr>
+<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_01_cuda_fundamentals/exercises/ex01_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex01_solution.ipynb">exercises/ex01_solution.ipynb</a></td><td valign="middle">Complete solution</td></tr>
+</tbody>
+</table>
 
 ## Standalone Source
 
