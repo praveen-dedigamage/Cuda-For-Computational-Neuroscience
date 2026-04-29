@@ -51,7 +51,7 @@ All CUDA code is compiled inside the notebook using `!nvcc`. No local installati
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/GPU-Programming-For-Computational-Neuroscience.git
+git clone https://github.com/praveen-dedigamage/Cuda-For-Computational-Neuroscience.git
 cd GPU-Programming-For-Computational-Neuroscience
 
 # Run the setup script
@@ -127,5 +127,5 @@ If you use this material in your research or teaching, please cite:
 
 ```
 GPU Programming for Computational Neuroscience
-https://github.com/YOUR_USERNAME/GPU-Programming-For-Computational-Neuroscience
+https://github.com/praveen-dedigamage/Cuda-For-Computational-Neuroscience
 ```
