@@ -1,0 +1,65 @@
+# Compiled binaries
+*.o
+*.out
+a.out
+*.exe
+*.so
+*.a
+
+# CUDA compilation artifacts
+*.cubin
+*.ptx
+*.fatbin
+*.sass
+
+# Build directories
+build/
+bin/
+obj/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+*.whl
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (keep src, ignore large outputs)
+*.npy
+*.npz
+*.h5
+*.hdf5
+data/raw/
+data/processed/
+
+# Profiling outputs
+*.nvvp
+*.qdrep
+*.sqlite
+*.nsys-rep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+*.tmp
+*.log
+*.bak
