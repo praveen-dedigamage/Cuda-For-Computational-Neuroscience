@@ -30,9 +30,9 @@ Parameters:
 <table>
 <thead><tr><th>Notebook</th><th>Topic</th></tr></thead>
 <tbody>
-<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/01_lif_theory.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="01_lif_theory.ipynb">01_lif_theory.ipynb</a></td><td valign="middle">LIF model derivation and analysis</td></tr>
-<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/02_parallel_lif_gpu.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="02_parallel_lif_gpu.ipynb">02_parallel_lif_gpu.ipynb</a></td><td valign="middle">Full GPU implementation</td></tr>
-<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/03_spike_analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="03_spike_analysis.ipynb">03_spike_analysis.ipynb</a></td><td valign="middle">Raster plots, ISI, firing rate analysis</td></tr>
+<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/01_lif_theory.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="01_lif_theory.ipynb">01_lif_theory.ipynb</a></td><td>LIF model derivation and analysis</td></tr>
+<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/02_parallel_lif_gpu.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="02_parallel_lif_gpu.ipynb">02_parallel_lif_gpu.ipynb</a></td><td>Full GPU implementation</td></tr>
+<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/03_spike_analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="03_spike_analysis.ipynb">03_spike_analysis.ipynb</a></td><td>Raster plots, ISI, firing rate analysis</td></tr>
 </tbody>
 </table>
 
@@ -41,8 +41,8 @@ Parameters:
 <table>
 <thead><tr><th>Notebook</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/exercises/ex03_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex03_stub.ipynb">exercises/ex03_stub.ipynb</a></td><td valign="middle">Add refractory period and heterogeneous inputs</td></tr>
-<tr><td valign="middle"><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/exercises/ex03_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="exercises/ex03_solution.ipynb">exercises/ex03_solution.ipynb</a></td><td valign="middle">Complete solution</td></tr>
+<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/exercises/ex03_stub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="exercises/ex03_stub.ipynb">exercises/ex03_stub.ipynb</a></td><td>Add refractory period and heterogeneous inputs</td></tr>
+<tr><td><a href="https://colab.research.google.com/github/praveen-dedigamage/Cuda-For-Computational-Neuroscience/blob/main/module_03_lif_neurons/exercises/ex03_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br/><a href="exercises/ex03_solution.ipynb">exercises/ex03_solution.ipynb</a></td><td>Complete solution</td></tr>
 </tbody>
 </table>
 
